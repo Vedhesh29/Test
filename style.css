@@ -1,0 +1,74 @@
+.by{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+p{
+    line-height: 30%;
+}
+h1{
+    color:black;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-style: italic;
+   
+}
+
+.bg{
+    background-image: url(background.jpg);
+
+}
+
+div.box{
+    text-align: center;
+    
+}
+
+.container{
+    width: 920px;
+    height: 587px;
+    background: rgb(59, 134, 255);
+    float:left
+    
+
+}
+
+.container p{
+    text-align: center;
+}
+
+.container .topic{
+    font-weight: 900;
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+
+.container .box2{
+    text-align: center;
+}
+
+
+.container2{
+    width: 920px;
+    height: 587px;
+    background: red;   
+    float:right
+}
+
+.container2 p{
+    text-align: center;
+}
+
+.container2 .topic{
+    font-weight: 900;
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+
+
+
